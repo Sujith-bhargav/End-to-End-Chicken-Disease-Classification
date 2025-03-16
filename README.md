@@ -19,7 +19,7 @@
 Clone the repository
 
 ```bash
-https://github.com/entbappy/End-to-End-Chicken-Disease-Classification-using-Fecal-Image.git
+https://github.com/Sujith-bhargav/End-to-End-Chicken-Disease-Classification/tree/main
 ```
 ### STEP 01- Create a conda environment after opening the repository
 
